@@ -2,7 +2,7 @@
 
 # Quotes-site
 
-> This is a simple food order app that allows you to add food items to the cart and order. You can also edit the amount added, and remove or add extra quantity of food items in the cart.
+> This is a demo site where users can add quotes and can also add comments on each quote.
 
 ## Built With
 
